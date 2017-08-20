@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--application name-->
+    <!--<string name="app_name">NavigationDrawer with Tab Layout</string>-->
+
+    <!--tab name-->
+    <string name="tab1">Movies</string>
+    <string name="tab2">Sports</string>
+    <string name="tab3">Games</string>
+    <string name="tab4">PhotoGraphy</string>
+    <string name="tab5">Wild Animals</string>
+    <string name="tab6">Travel Places</string>
+
+    <!--Tab 1-->
+    <string name="cd_main_image">main image</string>
+    <string name="material_icon_like">&#xeb03;</string>
+    <string name="material_icon_favorite">&#xe9b6;</string>
+    <string name="material_icon_share">&#xeac0;</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+    <!--navigation drawer menu name-->
+    <string name="drawer_home">Home</string>
+    <string name="drawer_facebook">Facebook</string>
+    <string name="drawer_gPlus">Google+</string>
+    <string name="drawer_youtube">YouTube</string>
+    <string name="drawer_rate">Rate</string>
+    <string name="drawer_more">More</string>
+    <string name="drawer_share">Share</string>
+    <string name="drawer_exit">Exit</string>
+    <string name="drawer_profile">Profile</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="drawer_visibility">@string/drawer_content_on</string>
+    <string name="drawer_content_on">0</string>
+    <string name="drawer_content_off">2</string>
+    <string name="app_email">dr.m.karthiik@gmail.com</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="of">of</string>
+    <string name="result">Result</string>
+    <string name="equals_to">=</string>
+    <string name="percent_text">%</string>
+    <string name="discount">Discount</string>
+    <string name="actual_price">Percentage</string>
+    <string name="percent">What is</string>
+    <string name="activity_done">Done</string>
+    <string name="btn_calculate">Calculate</string>
+
+
+    <string name="hint_actual_price">Enter Price</string>
+    <string name="hint_discount">Enter Discount</string>
+    <string name="final_price_is">Final Price is</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="hint_percentage">What is </string>
+    <string name="hint_percentage_is">Percent of </string>
+    <string name="equal_to">=</string>
+
+    <!--EMI-->
+
+    <string name="hint_principal">Principal Amount</string>
+    <string name="hint_interest">Interest rate per Year</string>
+    <string name="hint_years">How Many Years</string>
+    <string name="hint_emi">EMI</string>
+    <string name="hint_interest_total">Total Interest for Loan</string>
+
+    <!--Action Bar-->
+    <string name="action_profile">Profile</string>
+    <string name="action_share">Information</string>
+    <string name="action_rate">Rate App</string>
+    <string name="action_more">More Apps</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_interstiial_delay">5000</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Exit Dialog-->
+    <string name="message">Do you want to exit?</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+
+
+    <string-array name="list_trademark">
+        <item>xe bán chạy</item>
+        <item>suzuki</item>
+        <item>volvo</item>
+        <item>porsche</item>
+        <item>mercedes</item>
+        <item>chevrolet</item>
+        <item>honda</item>
+        <item>mini</item>
+        <item>lexus</item>
+        <item>mitsubishi</item>
+        <item>bmw</item>
+        <item>mazda</item>
+        <item>kia</item>
+        <item>nissan</item>
+        <item>renault</item>
+        <item>maserati</item>
+        <item>hyundai</item>
+        <item>ford</item>
+        <item>subaru</item>
+        <item>isuzu</item>
+        <item>infiniti</item>
+        <item>volkswagen</item>
+        <item>peugeot</item>
+        <item>toyota</item>
+    </string-array>
+
+    <string name="thuonghieu">Thương hiệu</string>
+    <string name="image">image</string>
+    <string name="gianiemyet">Giá niêm yết:</string>
+    <string name="giadamphan">Giá đàm phán:</string>
+    <string name="nguongoc">Nguồn gốc:</string>
+    <string name="loaixe">Loại xe:</string>
+
+    <string name="dairongcao">Dài x rộng x cao (mm):</string>
+    <string name="dungtichbinhxang">Dung tích bình xăng (lít):</string>
+    <string name="dongco">Động cơ:</string>
+    <string name="congxuat">Công suất (mã lực):</string>
+    <string name="moment">Mô-men xoắn (Nm):</string>
+    <string name="khoangsanggam">Khoảng sáng gầm (mm):</string>
+    <string name="duongkinhvongquaytoithieu">Đường kính vòng quay tối thiểu (m):</string>
+    <string name="hopso">Hộp số:</string>
+    <string name="muctieuthunhienlieu">Mức tiêu thụ nhiên liệu:</string>
+
+    <string name="denpha">Đèn pha :</string>
+    <string name="guonggapdien">Gương gập điện :</string>
+    <string name="remchenangphiasau">Rèm che nắng phía sau :</string>
+
+    <string name="danlanhchohangghesau">Dàn lạnh cho hàng ghế sau :</string>
+    <string name="guongchieuhauchongchoi">Gương chiếu hậu chống chói :</string>
+    <string name="ketnoibluetooth">Kết nối Bluetooth :</string>
+    <string name="lammatghe">Làm mát ghế :</string>
+    <string name="manhinhdvd">Màn hình DVD :</string>
+    <string name="manhinhcamung">Màn hình cảm ứng :</string>
+    <string name="manhinhgoidau">Màn hình gối đầu :</string>
+    <string name="nhovitrighe">Nhớ vị trí ghế :</string>
+    <string name="suoighe">Sưởi ghế :</string>
+    <string name="volangchinhdien">Vô-lăng chỉnh điện :</string>
+    <string name="daucamusb">Đầu cắm USB :</string>
+    <string name="chatlieunoithat">Chất liệu nội thất :</string>
+    <string name="dieuhoa">Điều hòa :</string>
+    <string name="ghelai">Ghế lái :</string>
+    <string name="ghemassage">Ghế massage :</string>
+    <string name="cuakinhghelai">Cửa kính ghế lái :</string>
+    <string name="hethongloa">Hệ thống loa (cái) :</string>
+    <string name="cansangsotrenvolang">Cần sang số trên vô-lăng :</string>
+    <string name="hienthithongtintrenkinhlai">Hiển thị thông tin trên kính lái HUD :</string>
+
+    <string name="trolucdien">Trợ lực điện (EPS) :</string>
+    <string name="hotrokhoihanhngangdoc">Hỗ trợ khởi hành ngang dốc (HAS) :</string>
+    <string name="dieukhienhanhtrinh">Điều khiển hành trình (Cruise Control) :</string>
+    <string name="luachonchedochay">Lựa chọn chế độ chạy :</string>
+    <string name="hethongtreokhinen">Hệ thống treo khí nén :</string>
+    <string name="mocopranhtay">Mở cốp rảnh tay :</string>
+    <string name="chiakhoathongminh">Chìa khóa thông minh :</string>
+    <string name="ruadenphatudong">Rửa đèn pha tự động :</string>
+    <string name="denphatudongdieuchinhgochieu">Đèn pha tự động điều chỉnh góc chiếu (AFS) :</string>
+    <string name="gatmuatudong">Gạt mưa tự động :</string>
+    <string name="cameralui">Camera lùi :</string>
+    <string name="copdien">Cốp điện :</string>
+    <string name="cuasotroi">Cửa sổ trời :</string>
+    <string name="cuahit">Cửa hít :</string>
+
+    <string name="chongbocungphanh">Chống bó cứng phanh (ABS) :</string>
+    <string name="hotrophanhkhancap">Hỗ trợ phanh khẩn cấp (BA) :</string>
+    <string name="canbangdientu">Cân bằng điện tử (ESP) :</string>
+    <string name="kiemsoatdobamduong">Kiểm soát độ bám đường (TRC) :</string>
+    <string name="canhbaochechlan">Cảnh báo chệch làn :</string>
+    <string name="canhbaoapxuatlop">Cảnh báo áp suất lốp :</string>
+    <string name="phanhtaydientu">Phanh tay điện tử :</string>
+    <string name="cambienkhoangcach">Cảm biến khoảng cách :</string>
+    <string name="loprunflat">Lốp Runflat :</string>
+    <string name="tuikhi">Túi khí :</string>
+
+
+    <string name="app_name">Giá xe ô tô</string>
+    <string name="tatca">Tất cả</string>
+    <string name="gny">Giá niêm yết</string>
+    <string name="gdp">Giá đàm phán</string>
+    <string name="co">Có</string>
+    <string name="Thu">Thu</string>
+</resources>
