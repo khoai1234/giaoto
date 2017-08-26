@@ -27,6 +27,7 @@ import java.util.Timer;
 public class MainActivity extends AppCompatActivity {
 
     Toolbar toolbar;
+    int a;
     DrawerLayout mDrawerLayout;
     NavigationView mNavigationView;
     FragmentManager mFragmentManager;
