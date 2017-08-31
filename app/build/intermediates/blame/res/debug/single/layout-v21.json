@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

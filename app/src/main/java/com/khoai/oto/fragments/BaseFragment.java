@@ -2,6 +2,7 @@ package com.khoai.oto.fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -42,7 +43,7 @@ public class BaseFragment extends Fragment {
 
         getList();
         for(Detail detail: list){
-            System.out.println(detail.getModen());
+            //Log.d("Moden===============",detail.getModen().toString());
         }
         return view;
     }
@@ -97,7 +98,5 @@ public class BaseFragment extends Fragment {
             }
         });
     }
-
-
 
 }

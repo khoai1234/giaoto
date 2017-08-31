@@ -127,14 +127,7 @@ public class MainActivity extends AppCompatActivity {
 
         mDrawerToggle.syncState();
 
-
-
     }
-
-
-
-
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
