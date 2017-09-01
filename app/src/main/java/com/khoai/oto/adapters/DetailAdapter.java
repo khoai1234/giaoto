@@ -17,7 +17,7 @@ import java.util.ArrayList;
 /**
  * Created by hiepn on 8/31/2017.
  */
-
+// Lop DetailAdapter dùng để hiển thị dữ liệu của các xe lên Listview
 public class DetailAdapter extends BaseAdapter {
     private Context mContext;
     private ArrayList<Detail> detailArrayList;
