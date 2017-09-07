@@ -20,18 +20,18 @@ import java.util.ArrayList;
 // Lop DetailAdapter dùng để hiển thị dữ liệu của các xe lên Listview
 public class DetailAdapter extends BaseAdapter {
     private Context mContext;
-    private ArrayList<Detail> detailArrayList;
+    private ArrayList<Detail> list;
     private LayoutInflater mLayoutInflater;
 
     public DetailAdapter(Context mContext, ArrayList<Detail> detailArrayList) {
         this.mContext = mContext;
-        this.detailArrayList = detailArrayList;
+        this.list = detailArrayList;
         this.mLayoutInflater = LayoutInflater.from(mContext);
     }
 
     @Override
     public int getCount() {
-        return detailArrayList.size();
+        return list.size();
     }
 
     @Override
@@ -47,7 +47,7 @@ public class DetailAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ViewHolder viewHolder;
-        Detail detail = detailArrayList.get(position);
+        Detail detail = list.get(position);
         if (convertView == null) {
             convertView = mLayoutInflater.inflate(R.layout.item_detail, parent, false);
 
@@ -65,11 +65,11 @@ public class DetailAdapter extends BaseAdapter {
         /*Glide.with(mContext)
                 .load(girlImageModel.getUrlImage())
                 .into(viewHolder.imgGirlImage);*/
-        viewHolder.imvAnhXe.setImageResource(Integer.parseInt(detailArrayList.get(position).getImage()));
-        viewHolder.tvTenXe.setText(detailArrayList.get(position).getModen());
-        viewHolder.tvNhanHieu.setText(detailArrayList.get(position).getEngine());
-        viewHolder.tvGNY.setText(detailArrayList.get(position).getCostNY());
-        viewHolder.tvGĐP.setText(detailArrayList.get(position).getCostDP());
+        //viewHolder.imvAnhXe.setImageResource(Integer.parseInt(detail.getImage()));
+        viewHolder.tvTenXe.setText(detail.getModen());
+        viewHolder.tvNhanHieu.setText(detail.getEngine());
+        viewHolder.tvGNY.setText(detail.getCostNY());
+        viewHolder.tvGĐP.setText(detail.getCostDP());
         return convertView;
     }
 

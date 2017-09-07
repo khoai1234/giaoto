@@ -6,6 +6,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.google.firebase.database.DataSnapshot;
@@ -16,12 +17,16 @@ import com.google.firebase.database.ValueEventListener;
 import com.khoai.oto.Chung;
 import com.khoai.oto.Detail;
 import com.khoai.oto.R;
+import com.khoai.oto.adapters.DetailAdapter;
 
 import java.util.ArrayList;
 
 import static android.R.id.list;
 
 public class BaseFragment extends Fragment {
+    private ListView lv_xe;
+    private DetailAdapter detailAdapter;
+    private View view;
     String hangxe = null;
     ArrayList<Detail> list = new ArrayList<>();
 
@@ -42,8 +47,12 @@ public class BaseFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_base, container, false);
 
         getList();
+        detailAdapter = new DetailAdapter(getActivity(),list);
+        lv_xe = (ListView) view.findViewById(R.id.lv_xe);
+        lv_xe.setAdapter(detailAdapter);
         for(Detail detail: list){
             //Log.d("Moden===============",detail.getModen().toString());
+            //Log.d("==================", String.valueOf(list.size()));
         }
         return view;
     }
@@ -58,6 +67,7 @@ public class BaseFragment extends Fragment {
                     String[] ds_id_banchay = chuoi.split(",");
                     for (String string : ds_id_banchay){
                         DataSnapshot dataSnapshot_oto = dataSnapshot.child(string);
+                        //Log.d("=============giatriID=============",string.toString());
                         Detail detail = new Detail();
                         detail.setID(dataSnapshot_oto.getKey());
                         String image = dataSnapshot_oto.child(getString(R.string.image)).getValue(String.class);
@@ -70,6 +80,7 @@ public class BaseFragment extends Fragment {
                     }
                 } else
                     for (DataSnapshot child: dataSnapshot.getChildren()){
+
                         if (child.hasChildren()){
 
                             Detail detail = new Detail();
@@ -80,6 +91,7 @@ public class BaseFragment extends Fragment {
 
                             detail.setCostDP(child.child(getString(R.string.giadamphan)).getValue(String.class));
                             detail.setCostNY(child.child(getString(R.string.gianiemyet)).getValue(String.class));
+                            Log.d("=============giatriGNY=============",detail.getCostNY());
 //                            detail.setEngine(child.child("engine").getValue(String.class));
                             detail.setModen(child.child(Chung.tenxe).getValue(String.class));
                             detail.setRecieve(child.child(getString(R.string.thuonghieu)).getValue(String.class));
