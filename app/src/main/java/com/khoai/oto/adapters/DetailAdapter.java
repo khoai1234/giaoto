@@ -2,6 +2,7 @@ package com.khoai.oto.adapters;
 
 import android.content.Context;
 import android.graphics.Color;
+import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -54,7 +55,8 @@ public class DetailAdapter extends BaseAdapter {
         if (convertView == null) {
             convertView = mLayoutInflater.inflate(R.layout.item_detail, parent, false);
 
-            viewHolder = new ViewHolder();
+            viewHolder = new ViewHolder() {
+            };
             viewHolder.imvImage = (ImageView) convertView.findViewById(R.id.imvImage);
             viewHolder.tvName = (TextView) convertView.findViewById(R.id.tvName);
             viewHolder.tvType = (TextView) convertView.findViewById(R.id.tvType);
@@ -76,26 +78,32 @@ public class DetailAdapter extends BaseAdapter {
         String strCostDP = Chung.stand_string(detail.getCostDP());
         int intCostNY = Integer.parseInt(strCostNY);
         int intCostDP = Integer.parseInt(strCostDP);
-        if (null != viewHolder.tvCostNY && null != viewHolder.tvCostDP) {
-            if ((intCostNY >= 0 && intCostNY <500) || (intCostDP >= 0 && intCostDP <500)) {
+        if (null != viewHolder.tvCostNY) {
+            if (intCostNY >= 0 && intCostNY < 500) {
                 viewHolder.tvCostNY.setTextColor(Color.BLUE); // Xanh dương
-                viewHolder.tvCostDP.setTextColor(Color.BLUE);
-            } else if ((intCostNY >= 500 && intCostNY <800) || (intCostDP >= 500 && intCostDP <800)) {
+            } else if (intCostNY >= 500 && intCostNY < 800) {
                 viewHolder.tvCostNY.setTextColor(Color.rgb(72, 150, 32)); // Xanh
-                viewHolder.tvCostDP.setTextColor(Color.rgb(72, 150, 32));
-            } else if ((intCostNY >= 800 && intCostNY <1000) || (intCostDP >= 800 && intCostDP <1000)) {
+            } else if (intCostNY >= 800 && intCostNY < 1000) {
                 viewHolder.tvCostNY.setTextColor(Color.rgb(241, 175, 0)); // Cam
-                viewHolder.tvCostDP.setTextColor(Color.rgb(241, 175, 0));
-            } else if ((intCostNY >= 1000 && intCostNY <10000) || (intCostDP >= 1000 && intCostDP <10000)) {
+            } else if (intCostNY >= 1000 && intCostNY < 10000) {
                 viewHolder.tvCostNY.setTextColor(Color.RED); // Đỏ
-                viewHolder.tvCostDP.setTextColor(Color.RED);
-            } else {
-                viewHolder.tvCostNY.setTextColor(Color.rgb(178, 0, 31));
+            } else{
+                viewHolder.tvCostNY.setTextColor(Color.rgb(178, 0, 31)); // Đỏ mận
+            }
+            if (intCostDP >= 0 && intCostDP < 500) {
+                viewHolder.tvCostDP.setTextColor(Color.BLUE); // Xanh dương
+            } else if (intCostDP >= 500 && intCostDP < 800) {
+                viewHolder.tvCostDP.setTextColor(Color.rgb(72, 150, 32)); // Xanh
+            } else if (intCostDP >= 800 && intCostDP < 1000) {
+                viewHolder.tvCostDP.setTextColor(Color.rgb(241, 175, 0)); // Cam
+            } else if (intCostDP >= 1000 && intCostDP < 10000) {
+                viewHolder.tvCostDP.setTextColor(Color.RED); // Đỏ
+            } else{
                 viewHolder.tvCostDP.setTextColor(Color.rgb(178, 0, 31)); // Đỏ mận
             }
+            viewHolder.tvCostNY.setText(strCostNY);
+            viewHolder.tvCostDP.setText(strCostDP);
         }
-        viewHolder.tvCostNY.setText(strCostNY);
-        viewHolder.tvCostDP.setText(strCostDP);
         return convertView;
     }
 
@@ -106,7 +114,5 @@ public class DetailAdapter extends BaseAdapter {
         TextView tvCostNY;
         TextView tvCostDP;
 
-        public ViewHolder() {
-        }
     }
 }
