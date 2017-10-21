@@ -1,66 +1,66 @@
 [
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\a564d4e1ee42468ec4a9501ba0799f3550a6d531\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\6932702f64779318f2b781a75eb1cc91db88a34c\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\6932702f64779318f2b781a75eb1cc91db88a34c\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\a564d4e1ee42468ec4a9501ba0799f3550a6d531\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\a564d4e1ee42468ec4a9501ba0799f3550a6d531\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\6932702f64779318f2b781a75eb1cc91db88a34c\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\6932702f64779318f2b781a75eb1cc91db88a34c\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\a564d4e1ee42468ec4a9501ba0799f3550a6d531\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\a564d4e1ee42468ec4a9501ba0799f3550a6d531\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\6932702f64779318f2b781a75eb1cc91db88a34c\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\d779e8577330ff6b55b7a1ea146046fea704c8c2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\40c6af2e51b21390e4e836c5d91387a15a529fe0\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\hiepn\\.android\\build-cache\\a564d4e1ee42468ec4a9501ba0799f3550a6d531\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\dangv\\.android\\build-cache\\6932702f64779318f2b781a75eb1cc91db88a34c\\output\\res\\anim\\design_snackbar_in.xml"
     }
 ]

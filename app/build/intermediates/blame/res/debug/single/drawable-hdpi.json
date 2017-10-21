@@ -1,114 +1,114 @@
 [
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_favorite.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_action_favorite.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_outline_white.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite_outline_white.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_skype.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_skype.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rate.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_rate.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_facebook.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_facebook.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_info.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_info.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_web.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_web.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_notification.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_notification.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_icon.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\nav_icon.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shattered.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\shattered.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_rate.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_rate.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_car_3d_yellow.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_car_3d_yellow.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_white.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite_white.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_favorite.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_action_favorite.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_skype.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_skype.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_hardware_keyboard_arrow_left.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_action_hardware_keyboard_arrow_left.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_youtube.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_youtube.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_calender.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_calender.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_rate.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_rate.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_share.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_web.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_web.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_rate.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_rate.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nav_icon.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\nav_icon.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_more.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_more.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_calender.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_calender.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_thumbnail.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_thumbnail.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_facebook.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_facebook.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_gplus.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_gplus.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\androidmkab_logo.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\androidmkab_logo.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_thumbnail.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_thumbnail.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_youtube.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_youtube.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_share.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shattered.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\shattered.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_hardware_keyboard_arrow_left.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_action_hardware_keyboard_arrow_left.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_notification.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_notification.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_more.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_more.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_outline_white.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite_outline_white.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pref_info.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_pref_info.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\androidmkab_logo.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\androidmkab_logo.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profile.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_profile.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_gplus.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_gplus.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_car_3d_yellow.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_car_3d_yellow.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\x.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\x.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\x.png"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_white.png",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite_white.png"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_profile.png",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\drawable-hdpi\\ic_profile.png"
     }
 ]

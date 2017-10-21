@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_news.xml",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\menu\\menu_news.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\menu\\search.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\menu\\search.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_news.xml",
-        "source": "D:\\ANDROID\\BEGINER\\giaoto\\app\\src\\main\\res\\menu\\menu_news.xml"
+        "merged": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_drawer.xml",
+        "source": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\src\\main\\res\\menu\\menu_drawer.xml"
     }
 ]

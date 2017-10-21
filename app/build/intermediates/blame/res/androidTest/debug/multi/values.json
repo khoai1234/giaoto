@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\ANDROID\\BEGINER\\giaoto\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\dangv\\Desktop\\git\\giaoto\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\hiepn\\.android\\build-cache\\5c3e54ed11d733e890772298935dab29ccd9b60d\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\dangv\\.android\\build-cache\\2c7cd8ea07a4b22e79c9aa816965137d2a6e8726\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

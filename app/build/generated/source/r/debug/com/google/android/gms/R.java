@@ -19,17 +19,17 @@ public final class R {
         public static final int scopeUris = 0x7f010113;
     }
     public static final class color {
-        public static final int common_google_signin_btn_text_dark = 0x7f0c007f;
+        public static final int common_google_signin_btn_text_dark = 0x7f0c0080;
         public static final int common_google_signin_btn_text_dark_default = 0x7f0c0001;
         public static final int common_google_signin_btn_text_dark_disabled = 0x7f0c0002;
         public static final int common_google_signin_btn_text_dark_focused = 0x7f0c0003;
         public static final int common_google_signin_btn_text_dark_pressed = 0x7f0c0004;
-        public static final int common_google_signin_btn_text_light = 0x7f0c0080;
+        public static final int common_google_signin_btn_text_light = 0x7f0c0081;
         public static final int common_google_signin_btn_text_light_default = 0x7f0c0005;
         public static final int common_google_signin_btn_text_light_disabled = 0x7f0c0006;
         public static final int common_google_signin_btn_text_light_focused = 0x7f0c0007;
         public static final int common_google_signin_btn_text_light_pressed = 0x7f0c0008;
-        public static final int common_google_signin_btn_tint = 0x7f0c0081;
+        public static final int common_google_signin_btn_tint = 0x7f0c0082;
     }
     public static final class drawable {
         public static final int common_full_open_on_phone = 0x7f020057;
@@ -67,8 +67,8 @@ public final class R {
         public static final int normal = 0x7f0e0011;
         public static final int radio = 0x7f0e0075;
         public static final int standard = 0x7f0e0053;
-        public static final int text = 0x7f0e00b9;
-        public static final int text2 = 0x7f0e00b7;
+        public static final int text = 0x7f0e00f0;
+        public static final int text2 = 0x7f0e00ee;
         public static final int toolbar = 0x7f0e008e;
         public static final int wide = 0x7f0e0054;
         public static final int wrap_content = 0x7f0e0025;
